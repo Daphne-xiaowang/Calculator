@@ -1,4 +1,4 @@
-package com.fengyuhe.calculator
+package com.example.calculator
 
 import android.app.DownloadManager
 import android.content.ContentValues.TAG
